@@ -1,7 +1,9 @@
 cinesisten plus
 localizado no centro do estado de nova york em manhattan
 os melhores e mais resentes filmes 
-temos promoçoes de baldes tematicos
-o melhor cinema para voce ir com seus amigos e familia com um preço otimo
+temos promoções de baldes tematicos
+o melhor cinema para voce ir com seus amigos e familia com um preço enconta 
 promoção compre dois copos de refrigerante e ganhe uma pipoca em um balde tematico de sua escolha
-todo sabado e domigo temos promoçoes para crianças e adultos
+todo sábado e domigo temos promoçoes para crianças e adultos
+se o cliente quiser voce podera encomendardar baldes com a imagen que voce nos mandar com 10% a mais do preço original
+em dias de aniversario o cliente não pagara
