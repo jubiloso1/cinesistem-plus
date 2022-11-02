@@ -1,9 +1,4 @@
-![image](https://user-images.githubusercontent.com/112869778/199379229-5755d44b-0878-4286-8027-b88e36875f4f.png)
-
-
-
-
-cinesistem plus
+![image](https://user-images.githubusercontent.com/112869778/199379229-5755d44b-0878-4286-8027-b88e36875f4f.png) 
           <li><a href="about.html">LOCALIZADO NA CIDADE DE MANHATTAN</a></li>
           <li><a href="about.html">OS MELHORES E MAIS RECENTES FILMES</a></li>
           <li><a href="about.html">O MELHOR CINEMA PARA VOCÊ IR  COM AMIGOS E FAMILIA COM UM PREÇO OTIMO</a></li>
